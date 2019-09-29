@@ -1,0 +1,35 @@
+﻿  ProcSolver.cpp
+d:\naoki\work\github\procframe\procframe\datastruct\abstractdata.h(52): warning C4930: “MyAlg::ClassLevelLockable<MyAlg::lowest_level_pt>::Lock lock(void)”: 未调用原型函数(是否是有意用变量定义的?)
+d:\naoki\work\github\procframe\procframe\datastruct\abstractdata.h(71): warning C4930: “MyAlg::ClassLevelLockable<MyAlg::lowest_level_pt>::Lock lock(void)”: 未调用原型函数(是否是有意用变量定义的?)
+d:\naoki\work\github\procframe\procframe\datastruct\abstractdata.h(78): warning C4930: “MyAlg::ClassLevelLockable<MyAlg::lowest_level_pt>::Lock lock(void)”: 未调用原型函数(是否是有意用变量定义的?)
+d:\naoki\work\github\procframe\procframe\datastruct\abstractdata.h(83): warning C4930: “MyAlg::ClassLevelLockable<MyAlg::lowest_level_pt>::Lock lock(void)”: 未调用原型函数(是否是有意用变量定义的?)
+d:\naoki\work\github\procframe\procframe\datastruct\abstractdata.h(88): warning C4930: “MyAlg::ClassLevelLockable<MyAlg::lowest_level_pt>::Lock lock(void)”: 未调用原型函数(是否是有意用变量定义的?)
+d:\naoki\work\github\procframe\procframe\datastruct\abstractdata.h(93): warning C4930: “MyAlg::ClassLevelLockable<MyAlg::lowest_level_pt>::Lock lock(void)”: 未调用原型函数(是否是有意用变量定义的?)
+d:\naoki\work\github\procframe\procframe\datastruct\abstractdata.h(194): warning C4018: “<”: 有符号/无符号不匹配
+d:\naoki\work\github\procframe\procframe\datastruct\abstractdata.h(196): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+d:\naoki\work\github\procframe\procframe\datastruct\abstractdata.h(351): warning C4018: “<”: 有符号/无符号不匹配
+d:\naoki\work\github\procframe\procframe\datastruct\abstractdata.h(416): warning C4018: “<”: 有符号/无符号不匹配
+d:\naoki\work\github\procframe\procframe\datastruct\abstractdata.h(509): warning C4018: “<”: 有符号/无符号不匹配
+d:\naoki\work\github\procframe\procframe\datastruct\abstractdata.h(511): warning C4018: “<”: 有符号/无符号不匹配
+d:\naoki\work\github\procframe\procframe\datastruct\abstractdata.h(587): warning C4244: “return”: 从“unsigned __int64”转换到“int”，可能丢失数据
+d:\naoki\work\github\procframe\procframe\frame\procsolver.cpp(12): warning C4018: “<”: 有符号/无符号不匹配
+d:\naoki\work\github\procframe\procframe\frame\procsolver.cpp(18): warning C4018: “<”: 有符号/无符号不匹配
+d:\naoki\work\github\procframe\procframe\frame\procsolver.cpp(37): warning C4018: “<”: 有符号/无符号不匹配
+d:\naoki\work\github\procframe\procframe\frame\procsolver.cpp(116): warning C4018: “>”: 有符号/无符号不匹配
+d:\naoki\work\github\procframe\procframe\frame\procsolver.cpp(242): warning C4018: “<”: 有符号/无符号不匹配
+d:\naoki\work\github\procframe\procframe\frame\procsolver.cpp(263): warning C4018: “<”: 有符号/无符号不匹配
+d:\naoki\work\github\procframe\procframe\frame\procsolver.cpp(283): warning C4018: “<=”: 有符号/无符号不匹配
+d:\naoki\work\github\procframe\procframe\frame\procsolver.cpp(286): warning C4018: “<”: 有符号/无符号不匹配
+d:\naoki\work\github\procframe\procframe\tools\circlebuffer.h(366): warning C4018: “>=”: 有符号/无符号不匹配
+  d:\naoki\work\github\procframe\procframe\tools\circlebuffer.h(365): note: 编译 类 模板 成员函数 "T &MyAlg::CircleBuffer<T>::At(const int) const" 时
+          with
+          [
+              T=MyAlg::lowest_level_pt
+          ]
+  d:\naoki\work\github\procframe\procframe\datastruct\abstractdata.h(169): note: 参见对正在编译的函数 模板 实例化“T &MyAlg::CircleBuffer<T>::At(const int) const”的引用
+          with
+          [
+              T=MyAlg::lowest_level_pt
+          ]
+  d:\naoki\work\github\procframe\procframe\datastruct\abstractdata.h(160): note: 参见对正在编译的 类 模板 实例化 "MyAlg::CircleBuffer<MyAlg::lowest_level_pt>" 的引用
+  ProcFrame.vcxproj -> D:\Naoki\work\github\ProcFrame\Debug\ProcFrame.exe
